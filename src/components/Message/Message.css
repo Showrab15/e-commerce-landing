@@ -1,0 +1,13 @@
+.whatsapp-link {
+  color: #25d366; /* WhatsApp green color */
+  margin: 10px;
+  text-decoration: none;
+}
+
+.whatsapp-link:hover {
+  color: #128c7e; /* Darker green on hover */
+}
+
+.wpicon-animation {
+  z-index: 9999; /* Ensure button is on top */
+}
