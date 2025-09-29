@@ -3,9 +3,11 @@ import BackToTopBtn from "../components/BackToTopBtn/BackToTopBtn";
 import Footer from "../components/Footer/Footer";
 import Message from "../components/Message/Message";
 import Navbar from "../components/Navbar/Navbar";
+import TopNav from "../components/Navbar/TopNav";
 const Agent = () => {
   return (
     <>
+      <TopNav />
       <Navbar />
 
       <Outlet />

@@ -56,6 +56,9 @@ const Products = () => {
                   <span className="text-base font-semibold text-gray-900">
                     Tk {product.price.toLocaleString()}
                   </span>
+                  <span className="text-xl font-semibold text-red-900">
+                    ID {product.id}
+                  </span>
                   {product.originalPrice && (
                     <span className="text-sm text-gray-500 line-through">
                       Tk {product.originalPrice.toLocaleString()}
