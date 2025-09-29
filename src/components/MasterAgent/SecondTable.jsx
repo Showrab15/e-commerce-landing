@@ -1,13 +1,11 @@
-/* eslint-disable react/prop-types */
 /* eslint-disable no-unused-vars */
-
 
 import useMasterAgents from "../../hooks/useMasterAgents";
 import AgentTable from "./AgentTable";
 
 export default function SecondTable({ agentRefs, searchId }) {
   const [agents, setAgents, loading] = useMasterAgents(); // Get setAgents
- 
+
   return (
     <div>
       <h3 className="mt-4 mb-2 text-[15px] md:text-[21px] font-bold text-center text-black">
@@ -15,16 +13,15 @@ export default function SecondTable({ agentRefs, searchId }) {
         28 জন
       </h3>
 
-    
       <div className="p-4 flex flex-col justify-center items-center">
         <div className="w-full md:w-auto">
-        <AgentTable
-          agents={agents}
-          sliceStart={7}
-          sliceEnd={35}
-          searchId={searchId}
-          agentRefs={agentRefs}
-        />
+          <AgentTable
+            agents={agents}
+            sliceStart={7}
+            sliceEnd={35}
+            searchId={searchId}
+            agentRefs={agentRefs}
+          />
         </div>
       </div>
     </div>
