@@ -1,14 +1,11 @@
-/* eslint-disable react/prop-types */
 /* eslint-disable no-unused-vars */
-
 
 import useMasterAgents from "../../hooks/useMasterAgents";
 import AgentTable from "./AgentTable";
 
 export default function Tenth({ agentRefs, searchId }) {
- 
   const [agents, setAgents, loading] = useMasterAgents(); // Get setAgents
-  
+
   return (
     <div>
       <h4 className="mt-4 mb-2 text-[15px] md:text-[21px] font-bold text-center text-black">
@@ -16,17 +13,15 @@ export default function Tenth({ agentRefs, searchId }) {
         আছে 14 জন{" "}
       </h4>
 
-     
-
       <div className="p-4 flex flex-col justify-center items-center">
         <div className="w-full md:w-auto">
-        <AgentTable
-           agents={agents}
-           sliceStart={167}
-           sliceEnd={181}
-           searchId={searchId}
-           agentRefs={agentRefs}
-         />
+          <AgentTable
+            agents={agents}
+            sliceStart={167}
+            sliceEnd={181}
+            searchId={searchId}
+            agentRefs={agentRefs}
+          />
         </div>
       </div>
     </div>
