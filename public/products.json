@@ -58,5 +58,140 @@
     "originalPrice": 1200,
     "image": "https://ghorerbazar.com/cdn/shop/files/lichi-1kg.jpg?v=1747054006&width=533",
     "tag": "On Sale"
+  },
+  {
+    "id": 9,
+    "name": "African Organic Wild Honey 500g",
+    "price": 1250,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Wild-honey-500gm.jpg?v=1756636700&width=533",
+    "tag": null
+  },
+  {
+    "id": 10,
+    "name": "Sukkari Mufattal Malaki Dates 3kg",
+    "price": 4000,
+    "originalPrice": 4500,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Sukkari-Dates-3kg.jpg?v=1756706365&width=533",
+    "tag": "On Sale"
+  },
+  {
+    "id": 11,
+    "name": "Sukkari Mufattal Malaki Dates 1kg",
+    "price": 1350,
+    "originalPrice": 1500,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Sukkari-Dates-1kg.jpg?v=1756705290&width=533",
+    "tag": "On Sale"
+  },
+  {
+    "id": 12,
+    "name": "Natural Wild Honeycomb-1100gm",
+    "price": 3135,
+    "originalPrice": 3300,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Honeycomb.jpg?v=1751440228&width=533",
+    "tag": "On Sale"
+  },
+  {
+    "id": 13,
+    "name": "Honey Nuts/হানিনাট (৮০০গ্রাম)",
+    "price": 1350,
+    "originalPrice": 1500,
+    "image": "https://ghorerbazar.com/cdn/shop/files/WhatsAppImage2025-08-09at16.50.24_7475e19b.jpg?v=1754736848&width=533",
+    "tag": "On Sale"
+  },
+  {
+    "id": 14,
+    "name": "Kashmiri Sidr Honey 800g",
+    "price": 1800,
+    "originalPrice": 2000,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Sidor-honey_581bc3cd-9326-4d8a-802b-ac1a8f5431ec.jpg?v=1756710923&width=533",
+    "tag": "On Sale"
+  },
+  {
+    "id": 15,
+    "name": "Natural Honeycomb- 1700g (Briefcase)",
+    "price": 4000,
+    "originalPrice": 4250,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Natural-Honeycomb-1700gm-_Briefcase.jpg?v=1756710778&width=533",
+    "tag": "On Sale"
+  },
+  {
+    "id": 16,
+    "name": "Sukkari Mufattal Malaki Dates 500 gm",
+    "price": 750,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Sukkari-500gm.jpg?v=1751360515&width=533",
+    "tag": null
+  },
+  {
+    "id": 17,
+    "name": "Ajwa Premium Dates 1kg",
+    "price": 1800,
+    "originalPrice": 2000,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Ajwa-Premium-Dates-1kg.jpg?v=1756704947&width=533",
+    "tag": "On Sale"
+  },
+  {
+    "id": 18,
+    "name": "Ajwa Premium Dates 500 gm",
+    "price": 1000,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Ajwa.jpg?v=1751360852&width=533",
+    "tag": null
+  },
+  {
+    "id": 19,
+    "name": "Sundarban Honey 500g",
+    "price": 1000,
+    "originalPrice": 1250,
+    "image": "https://ghorerbazar.com/cdn/shop/files/sundarban-honey-500gm-and-250tk-discount.jpg?v=1754112424&width=533",
+    "tag": "On Sale"
+  },
+  {
+    "id": 20,
+    "name": "Kala Bhuna Masala-250gm",
+    "price": 650,
+    "originalPrice": 750,
+    "image": "https://ghorerbazar.com/cdn/shop/files/kala-Vuna-Masala-250gm.jpg?v=1756711039&width=533",
+    "tag": "On Sale"
+  },
+  {
+    "id": 21,
+    "name": "Natural Honeycomb-1kg",
+    "price": 2500,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Newhoneycomb1kg.jpg?v=1747314281&width=533",
+    "tag": null
+  },
+  {
+    "id": 22,
+    "name": "Honeyraj Mixed Flower Honey with Honeycomb 250g",
+    "price": 500,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Honeywithcomb250gm.jpg?v=1752586914&width=533",
+    "tag": null
+  },
+  {
+    "id": 23,
+    "name": "Honeyraj Mixed Flower Honey with Honeycomb 500gm",
+    "price": 1000,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Honey-with-comb-500gm.jpg?v=1752587026&width=533",
+    "tag": null
+  },
+  {
+    "id": 24,
+    "name": "Organic Black Chia Seeds (USDA Certified) 500gm",
+    "price": 1200,
+    "image": "https://ghorerbazar.com/cdn/shop/files/new-oraganic-chia-seeds_1_d2cea6b7-8b0f-44ac-8c64-89cc04d9a937.jpg?v=1754135482&width=533",
+    "tag": null
+  },
+  {
+    "id": 25,
+    "name": "Black Garlic 500gm",
+    "price": 1500,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Black-garlic-04.jpg?v=1742119052&width=533",
+    "tag": null
+  },
+  {
+    "id": 26,
+    "name": "Moringa Powder/মরিঙ্গা পাউডার (৫০০ গ্রাম)",
+    "price": 900,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Moringa-Powder.png?v=1735410745&width=533",
+    "tag": null
   }
 ]
