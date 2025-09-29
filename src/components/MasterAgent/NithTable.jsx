@@ -1,6 +1,4 @@
-/* eslint-disable react/prop-types */
 /* eslint-disable no-unused-vars */
-
 
 import useMasterAgents from "../../hooks/useMasterAgents";
 import AgentTable from "./AgentTable";
@@ -15,17 +13,15 @@ export default function NinthTable({ agentRefs, searchId }) {
         আছে 5 জন{" "}
       </h4>
 
-     
-
       <div className="p-4 flex flex-col justify-center items-center">
         <div className="w-full md:w-auto">
-        <AgentTable
-           agents={agents}
-           sliceStart={161}
-           sliceEnd={166}
-           searchId={searchId}
-           agentRefs={agentRefs}
-         />
+          <AgentTable
+            agents={agents}
+            sliceStart={161}
+            sliceEnd={166}
+            searchId={searchId}
+            agentRefs={agentRefs}
+          />
         </div>
       </div>
     </div>
