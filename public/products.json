@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "USDA Organic Beetroot Powder 250g",
+    "price": 1000,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Beetroot-Powder-with-bowl.jpg?v=1757588542&width=533",
+    "tag": null
+  },
+  {
+    "id": 2,
+    "name": "African Organic Wild Honey 1kg",
+    "price": 2500,
+    "image": "https://ghorerbazar.com/cdn/shop/files/1000gm.jpg?v=1756558748&width=533",
+    "tag": null
+  },
+  {
+    "id": 3,
+    "name": "Organic Spirulina Powder 250 gm",
+    "price": 1200,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Spirulina_240779d0-7103-4441-931e-196da2443bea.jpg?v=1755777436&width=533",
+    "tag": null
+  },
+  {
+    "id": 4,
+    "name": "দেশি সরিষার তেল/Deshi Mustard Oil 5ltr.",
+    "price": 1550,
+    "image": "https://ghorerbazar.com/cdn/shop/files/mastraid-oil-5-leter_4d13090e-149c-4caf-8c29-bf63af18704e.jpg?v=1757764616&width=533",
+    "tag": null
+  },
+  {
+    "id": 5,
+    "name": "Gawa Ghee/গাওয়া ঘি (১ কেজি)",
+    "price": 1700,
+    "originalPrice": 1800,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Shosti-Ghee-1kg.jpg?v=1757581095&width=533",
+    "tag": "On Sale"
+  },
+  {
+    "id": 6,
+    "name": "সুন্দরবনের মধু/Sundarban Honey 1kg",
+    "price": 2000,
+    "originalPrice": 2500,
+    "image": "https://ghorerbazar.com/cdn/shop/files/sundarban-honey-1kg-and-500tk-discount.jpg?v=1754112444&width=533",
+    "tag": "On Sale"
+  },
+  {
+    "id": 7,
+    "name": "Honey Special Combo Pack (4 types Honey)",
+    "price": 1650,
+    "originalPrice": 1950,
+    "image": "https://ghorerbazar.com/cdn/shop/files/Honey-Sepcial-Combo-Pack.jpg?v=1756709740&width=533",
+    "tag": "On Sale"
+  },
+  {
+    "id": 8,
+    "name": "লিচু ফুলের মধু/Lichu Flower Honey 1kg",
+    "price": 1000,
+    "originalPrice": 1200,
+    "image": "https://ghorerbazar.com/cdn/shop/files/lichi-1kg.jpg?v=1747054006&width=533",
+    "tag": "On Sale"
+  }
+]
