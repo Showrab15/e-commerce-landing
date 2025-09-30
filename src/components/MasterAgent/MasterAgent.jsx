@@ -41,20 +41,6 @@ export default function MasterAgent() {
       <HeaderForm onSearch={handleSearch} />
       <div className="mt-10 py-4 border-[1px] mx- md:mx-14">
         <FirstTable searchId={searchId} agentRefs={agentRefs} />
-        {/* <SeventhTable searchId={searchId} agentRefs={agentRefs} />
-        <EightTable searchId={searchId} agentRefs={agentRefs} />
-        <NinthTable searchId={searchId} agentRefs={agentRefs} />
-
-        <ThirdTable searchId={searchId} agentRefs={agentRefs} />
-        <FourthTable searchId={searchId} agentRefs={agentRefs} />
-        <FifthTable searchId={searchId} agentRefs={agentRefs} />
-        <SixthTable searchId={searchId} agentRefs={agentRefs} />
-        <SecondTable searchId={searchId} agentRefs={agentRefs} />
-
-        <Tenth searchId={searchId} agentRefs={agentRefs} />
-        <FirstTable searchId={searchId} agentRefs={agentRefs} />
-        <EleventhTable searchId={searchId} agentRefs={agentRefs} />
-        <TweleveTable searchId={searchId} agentRefs={agentRefs} /> */}
       </div>
     </>
   );
