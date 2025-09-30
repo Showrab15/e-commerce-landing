@@ -38,7 +38,7 @@ export default function MasterAgent() {
       <HeaderTitle />
 
       <HeaderForm onSearch={handleSearch} />
-      <div className="mt-10 py-4 border-[1px] mx- md:mx-14">
+      <div className="mt-6 sm:mt-0  md:mx-14">
         <FirstTable searchId={searchId} agentRefs={agentRefs} />
       </div>
     </>

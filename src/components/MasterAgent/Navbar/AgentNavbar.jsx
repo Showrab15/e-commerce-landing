@@ -5,7 +5,7 @@ import Breaking from "./Breaking";
 import Logo from "./Logo";
 import NavOption from "./NavOption";
 
-const Navbar = () => {
+const AgentNavbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   const handleMenuToggle = () => {
@@ -425,4 +425,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default AgentNavbar;
