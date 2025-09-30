@@ -1,18 +1,7 @@
 import { createRef, useEffect, useRef, useState } from "react";
 import useAgents from "./../../hooks/useAgents";
 import HeaderForm from "./../HeaderForm/HeaderForm";
-import EightTable from "./EightTable";
-import EleventhTable from "./EleventhTable";
-import FifthTable from "./FifthTable";
 import FirstTable from "./FirstTable";
-import FourthTable from "./FourthTable";
-import NinthTable from "./NithTable";
-import SecondTable from "./SecondTable";
-import SeventhTable from "./SeventhTable";
-import SixthTable from "./SixthTable";
-import Tenth from "./TenthTable";
-import ThirdTable from "./ThirdTable";
-import TweleveTable from "./TweleveTable";
 
 export default function MasterAgent() {
   const [agents] = useAgents();
@@ -51,7 +40,8 @@ export default function MasterAgent() {
 
       <HeaderForm onSearch={handleSearch} />
       <div className="mt-10 py-4 border-[1px] mx- md:mx-14">
-        <SeventhTable searchId={searchId} agentRefs={agentRefs} />
+        <FirstTable searchId={searchId} agentRefs={agentRefs} />
+        {/* <SeventhTable searchId={searchId} agentRefs={agentRefs} />
         <EightTable searchId={searchId} agentRefs={agentRefs} />
         <NinthTable searchId={searchId} agentRefs={agentRefs} />
 
@@ -64,7 +54,7 @@ export default function MasterAgent() {
         <Tenth searchId={searchId} agentRefs={agentRefs} />
         <FirstTable searchId={searchId} agentRefs={agentRefs} />
         <EleventhTable searchId={searchId} agentRefs={agentRefs} />
-        <TweleveTable searchId={searchId} agentRefs={agentRefs} />
+        <TweleveTable searchId={searchId} agentRefs={agentRefs} /> */}
       </div>
     </>
   );
