@@ -1,4 +1,5 @@
 import { createRef, useEffect, useRef, useState } from "react";
+import HeaderTitle from "../HeaderTitle/HeaderTitle";
 import useAgents from "./../../hooks/useAgents";
 import HeaderForm from "./../HeaderForm/HeaderForm";
 import FirstTable from "./FirstTable";
@@ -34,9 +35,7 @@ export default function MasterAgent() {
   };
   return (
     <>
-      <h1 className="mt-6  text-2xl md:text-4xl font-medium text-center text-white">
-        এজেন্ট এর আইডি নাম্বার দিয়ে খুজুনঃ
-      </h1>
+      <HeaderTitle />
 
       <HeaderForm onSearch={handleSearch} />
       <div className="mt-10 py-4 border-[1px] mx- md:mx-14">
