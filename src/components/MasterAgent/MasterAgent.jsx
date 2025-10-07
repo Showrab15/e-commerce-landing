@@ -38,7 +38,7 @@ export default function MasterAgent() {
       <HeaderTitle />
 
       <HeaderForm onSearch={handleSearch} />
-      <div className="mt-6 sm:mt-0  md:mx-14">
+      <div className="  md:mx-14">
         <FirstTable searchId={searchId} agentRefs={agentRefs} />
       </div>
     </>
