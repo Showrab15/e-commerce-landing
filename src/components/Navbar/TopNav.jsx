@@ -6,7 +6,7 @@ export default function TopNav() {
           আমাদের যে কোন পণ্য অর্ডার করতে কল বা WhatsApp করুন:
         </h6>{" "}
         <div>
-          <span> +8801321208940 |</span> <span> হট লাইন: 09642-922922</span>
+          <span> +1 902 813-4200 |</span> <span> হট লাইন: +1 902 813-4200</span>
         </div>
       </div>
     </div>
