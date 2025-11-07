@@ -123,8 +123,7 @@ export default function NavOption() {
               )}
             </div>
           ))}
-          {/* Additional Divider after the last tab */}
-          {/* <div className="h-6 w-px bg-gray-300 opacity-50 mx-2" /> */}
+         
         </div>
       </div>
     </div>
