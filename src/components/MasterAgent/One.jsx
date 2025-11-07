@@ -11,10 +11,7 @@ export default function One() {
   const masterAgentsApi = import.meta.env.VITE_masterAgentApi;
   // const whatsappLinkApi = import.meta.env.VITE_whatsappLinksApi;
   const [isAdmin, setIsAdmin] = useState(false);
-  // https://wa.me/+12892779369
-  // https://wa.me/+15798044647
-  // https://wa.me/+17787433510
-  // https://wa.me/+12892749371
+
   const { user } = useContext(AuthContext);
   const [users] = useUsers(); // Assuming this fetches all users from MongoDB
 
