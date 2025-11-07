@@ -20,7 +20,7 @@ export const router = createBrowserRouter([
     element: <Agent />,
     children: [
       {
-        path: "/agent",
+        path: "/agents",
         element: <MasterAgent />,
       },
     ],
